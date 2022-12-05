@@ -7,6 +7,7 @@ Please select the relevant option
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality not to work as expected)
 - [ ] This change requires a documentation update
+- [ ] Setup and configurations
 
 ## How Has This Been Tested?
 Please describe the tests that you ran to verify your change
