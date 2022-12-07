@@ -1,0 +1,27 @@
+.landingPage {
+  height: calc(100vh - 80px);
+  h1 {
+    font-family: "gameOfThrone";
+    text-align: center;
+    line-height: 1.5em;
+    margin-top: -8rem;
+    align-self: center;
+    font-size: 80px;
+    color: #555;
+  }
+  button {
+    margin-top: 1.5rem;
+    background: linear-gradient(to right, #4cb8c4, #3cd3ad);
+    width: 9rem;
+    height: 2.7rem;
+    border-radius: 5px;
+    margin-inline: auto;
+    font-weight: bold;
+    transition: background 1s ease-in-out;
+    color: aliceblue;
+    &:hover
+       {
+        background: linear-gradient(90deg, #fad961 0%, #f76b1c 100%);
+      }
+  }
+}

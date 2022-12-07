@@ -7,6 +7,7 @@ const Header = () => {
       <title>Ice and Fire ❄️🔥</title>
       <meta name="description" content="Ice and Fire frontend" />
       <link rel="icon" href="/favicon.ico" />
+      <link href="https://unpkg.com/pattern.css" rel="stylesheet" />
     </Head>
   );
 };
