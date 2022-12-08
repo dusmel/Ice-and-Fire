@@ -29,6 +29,7 @@
     "autoprefixer": "^10.4.13",
     "babel-plugin-istanbul": "^6.1.1",
     "cypress": "^11.2.0",
+    "pattern.css": "^1.0.0",
     "postcss": "^8.4.19",
     "sass": "^1.56.1",
     "start-server-and-test": "^1.14.0",

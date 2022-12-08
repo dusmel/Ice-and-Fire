@@ -41,17 +41,17 @@
     },
     "branchMap": {},
     "s": {
-      "0": 0
+      "0": 4
     },
     "f": {
-      "0": 0
+      "0": 4
     },
     "b": {},
     "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
     "hash": "243bc3176eb3314306e307855b0bd16747cd2ba1"
   },
-  "/Users/hadad/Desktop/melliom/gigs/zatec/ice-and-fire/components/Head.tsx": {
-    "path": "/Users/hadad/Desktop/melliom/gigs/zatec/ice-and-fire/components/Head.tsx",
+  "/Users/hadad/Desktop/melliom/gigs/zatec/ice-and-fire/components/common/Navbar.tsx": {
+    "path": "/Users/hadad/Desktop/melliom/gigs/zatec/ice-and-fire/components/common/Navbar.tsx",
     "statementMap": {
       "0": {
         "start": {
@@ -59,7 +59,7 @@
           "column": 15
         },
         "end": {
-          "line": 12,
+          "line": 10,
           "column": 1
         }
       },
@@ -69,7 +69,7 @@
           "column": 2
         },
         "end": {
-          "line": 11,
+          "line": 9,
           "column": 4
         }
       }
@@ -93,7 +93,7 @@
             "column": 21
           },
           "end": {
-            "line": 12,
+            "line": 10,
             "column": 1
           }
         },
@@ -102,26 +102,212 @@
     },
     "branchMap": {},
     "s": {
-      "0": 2,
-      "1": 0
+      "0": 4,
+      "1": 4
     },
     "f": {
-      "0": 0
+      "0": 4
     },
     "b": {},
     "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
-    "hash": "d790aa611950d18a8400d9ad76f95a34877696a6"
+    "hash": "57c67f51ee613e44d416b63089c7b26bbaf2ead5"
+  },
+  "/Users/hadad/Desktop/melliom/gigs/zatec/ice-and-fire/components/Head.tsx": {
+    "path": "/Users/hadad/Desktop/melliom/gigs/zatec/ice-and-fire/components/Head.tsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 4,
+          "column": 15
+        },
+        "end": {
+          "line": 13,
+          "column": 1
+        }
+      },
+      "1": {
+        "start": {
+          "line": 5,
+          "column": 2
+        },
+        "end": {
+          "line": 12,
+          "column": 4
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {
+            "line": 4,
+            "column": 15
+          },
+          "end": {
+            "line": 4,
+            "column": 16
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 21
+          },
+          "end": {
+            "line": 13,
+            "column": 1
+          }
+        },
+        "line": 4
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 4,
+      "1": 4
+    },
+    "f": {
+      "0": 4
+    },
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "39667efa81c9c42464838fc48d836a70ecf5e10d"
+  },
+  "/Users/hadad/Desktop/melliom/gigs/zatec/ice-and-fire/components/LandingPage/Patterns.tsx": {
+    "path": "/Users/hadad/Desktop/melliom/gigs/zatec/ice-and-fire/components/LandingPage/Patterns.tsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 7,
+          "column": 31
+        },
+        "end": {
+          "line": 18,
+          "column": 1
+        }
+      },
+      "1": {
+        "start": {
+          "line": 8,
+          "column": 2
+        },
+        "end": {
+          "line": 17,
+          "column": 4
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {
+            "line": 7,
+            "column": 31
+          },
+          "end": {
+            "line": 7,
+            "column": 32
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 37
+          },
+          "end": {
+            "line": 18,
+            "column": 1
+          }
+        },
+        "line": 7
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 4,
+      "1": 4
+    },
+    "f": {
+      "0": 4
+    },
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "f07d5026cf64af7b550c63e5bb07ccdc0b612d6d"
+  },
+  "/Users/hadad/Desktop/melliom/gigs/zatec/ice-and-fire/components/LandingPage/LandingPage.tsx": {
+    "path": "/Users/hadad/Desktop/melliom/gigs/zatec/ice-and-fire/components/LandingPage/LandingPage.tsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 7,
+          "column": 34
+        },
+        "end": {
+          "line": 22,
+          "column": 1
+        }
+      },
+      "1": {
+        "start": {
+          "line": 8,
+          "column": 2
+        },
+        "end": {
+          "line": 21,
+          "column": 4
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {
+            "line": 7,
+            "column": 34
+          },
+          "end": {
+            "line": 7,
+            "column": 35
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 40
+          },
+          "end": {
+            "line": 22,
+            "column": 1
+          }
+        },
+        "line": 7
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 4,
+      "1": 4
+    },
+    "f": {
+      "0": 4
+    },
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "b79d84ca1cfdb46fcfb95253789e445472d78645"
   },
   "/Users/hadad/Desktop/melliom/gigs/zatec/ice-and-fire/pages/index.tsx": {
     "path": "/Users/hadad/Desktop/melliom/gigs/zatec/ice-and-fire/pages/index.tsx",
     "statementMap": {
       "0": {
         "start": {
-          "line": 6,
+          "line": 8,
           "column": 2
         },
         "end": {
-          "line": 30,
+          "line": 17,
           "column": 4
         }
       }
@@ -131,36 +317,36 @@
         "name": "Home",
         "decl": {
           "start": {
-            "line": 5,
+            "line": 7,
             "column": 24
           },
           "end": {
-            "line": 5,
+            "line": 7,
             "column": 28
           }
         },
         "loc": {
           "start": {
-            "line": 5,
+            "line": 7,
             "column": 31
           },
           "end": {
-            "line": 31,
+            "line": 18,
             "column": 1
           }
         },
-        "line": 5
+        "line": 7
       }
     },
     "branchMap": {},
     "s": {
-      "0": 0
+      "0": 4
     },
     "f": {
-      "0": 0
+      "0": 4
     },
     "b": {},
     "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
-    "hash": "47f2b8ad04058ed849bd9b99208e20f9640bd64e"
+    "hash": "1a05f42ae62f82343663d38b66048fe4dbbb7d3b"
   }
 }
